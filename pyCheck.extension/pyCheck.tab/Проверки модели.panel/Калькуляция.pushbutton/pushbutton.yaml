@@ -1,0 +1,3 @@
+title: Тетрис
+tooltip: Запустить игру Тетрис
+script: start_tetris_script.py
