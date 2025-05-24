@@ -1,1 +1,21 @@
-Распакуйте файл pyCheck.extension в дирректорию C:\Program Files\pyRevit-Master\extensions или там где у вас установлен pyRevit
+# Установка расширения pyRevit ТОЧНО НЕ Tetris
+
+1. Скачайте папку с расширением pyCheck.extension и поместите её в папку расширений pyRevit.  
+   Обычно это:  
+   `%APPDATA%\pyRevit\Extensions`  
+   или директория, указанная в настройках pyRevit.
+
+
+2. Запустите Revit и убедитесь, что расширение появилось в ленте (pyCheck) под указанным названием.
+
+3. Нажмите кнопку расширения, чтобы запустить игру ТОЧНО НЕ Tetris.
+
+4. Для удаления расширения удалите папку pyCheck.extension из директории расширений pyRevit.
+
+---
+
+Если возникнут вопросы, обращайтесь к разработчику.
+
+
+
+![image](https://github.com/user-attachments/assets/b05391a2-c723-4f23-8ccd-e2ae4f38acab)
